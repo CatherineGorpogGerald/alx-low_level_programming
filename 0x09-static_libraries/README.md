@@ -1,1 +1,1 @@
-static libraries readme file created
+readme file of static libraries
