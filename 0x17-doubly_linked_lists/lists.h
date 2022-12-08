@@ -9,7 +9,7 @@
  *@next: points to the next node
  *
  *Description: doubly linked list node structure
- *for alx-low_level_programming project
+ *for alx project
  */
 typedef struct dlistint_s
 {	int n;
